@@ -1,7 +1,7 @@
-import css from './Profile.module.css';
+// import css from './Profile.module.css';
 import PropTypes from 'prop-types';
 
-export default function Profile({ avatar, username, tag, location, stats }) {
+export default function Profile ({ avatar, username, tag, location, stats }) {
   const { followers, views, likes } = stats;
   return (
     <div className="profile">
