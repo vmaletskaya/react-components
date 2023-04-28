@@ -1,0 +1,10 @@
+.main {
+    display: grid;
+    grid-template-columns: 300px 450px 300px;
+    grid-auto-rows: auto;
+    gap: 35px;
+    font-size: 18px;
+    color: #010101;
+    margin: 35px auto;
+    width: calc(300px + 450px + 300px + (2 * 35px));
+}
