@@ -10,7 +10,7 @@ import FriendList from './FriendList/FriendList';
 import friends from './FriendList/friends.json';
 
 import TransactionHistory from './Transactions/TransactionHistory';
-import transactions from './Transactions/Transactions.json';
+import transactions from './Transactions/TransactionsData.json';
 
 export const App = () => {
   return (
