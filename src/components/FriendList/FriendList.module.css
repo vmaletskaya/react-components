@@ -14,7 +14,7 @@
     box-shadow: 2px 2px 10px #00000023;
     padding: 10px 20px;
     border-radius: 6px;
-    background-color: #FFEBEB;
+    background-color: #f5dcf6;
 
     align-items: center;
 }
@@ -38,6 +38,6 @@
     top: 0;
     font-weight: 600;
     text-transform: uppercase;
-    color: grey;
+    color: black;
     margin: 0;
 }

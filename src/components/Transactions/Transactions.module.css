@@ -1,0 +1,36 @@
+.transactionHistory {
+    width: 450px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 2px 2px 10px #00000027;
+    border-radius: 10px;
+    overflow: hidden;
+    border-collapse: collapse;
+    grid-column: 2;
+    position: relative;
+    top: -280px;
+}
+
+.transactionHistory>tbody>tr>td:nth-child(1) {
+    text-align: left;
+    padding-left: 25px;
+}
+
+td {
+    padding: 5px 5px;
+}
+
+tr {
+    color: black;
+    line-height: 30px;
+}
+
+th {
+    background-color: #917FB3;
+    color: white;
+    padding: 10px 10px;
+}
+
+tr:nth-child(2n + 2) {
+    background-color: #FDE2F3;
+}

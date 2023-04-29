@@ -1,17 +1,17 @@
 .statistics {
   text-align: center;
-  box-shadow: 2px 2px 10px #0000005c;
   border-radius: 10px;
   overflow: hidden;
   width: 450px;
   height: 150px;
+  box-shadow: 2px 2px 10px #00000027;
 }
 
 .title {
   font-size: 20px;
   margin: 20px 0;
   text-transform: uppercase;
-  color: gray;
+  color: black;
 }
 
 .statList {
