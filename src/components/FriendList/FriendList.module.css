@@ -8,36 +8,3 @@
     gap: 15px;
 }
 
-.item {
-    display: flex;
-    gap: 10px;
-    box-shadow: 2px 2px 10px #00000023;
-    padding: 10px 20px;
-    border-radius: 6px;
-    background-color: #f5dcf6;
-
-    align-items: center;
-}
-
-.status {
-    display: block;
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-}
-
-.avatar {
-    box-shadow: 0px 1px 1px #0000006b;
-    padding: 5px;
-    border-radius: 45%;
-    background-color: rgba(128, 128, 128, 0.15);
-}
-
-.name {
-    position: relative;
-    top: 0;
-    font-weight: 600;
-    text-transform: uppercase;
-    color: black;
-    margin: 0;
-}
